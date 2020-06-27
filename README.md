@@ -1,0 +1,1 @@
+/* this app is for entertainment and learning purposes only */
